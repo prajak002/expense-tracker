@@ -69,11 +69,7 @@ To run this project, you will need to add the following environment variables to
 `DATABASE` : contains the dbURI of MongoDB connections
 
 
-## Authors  
 
-- [Jayesh Patil](https://github.com/jayesh1602)
-- [Rohit Patil](https://github.com/rohitvpatil0810)
-- [Manas Jadhav](https://github.com/ManasJadhav)
 
 
 
